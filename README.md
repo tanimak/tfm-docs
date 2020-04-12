@@ -1,14 +1,19 @@
-## Welcome to GitHub Pages
+#NL-TFM 
+version 2.0.0
+###Functional Documentation
 
-You can use the [editor on GitHub](https://github.com/tanimak/tfm-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<A href="#support-or-contact">Section One</A>
-### Markdown
+1. Introduction
+2. Setting up
+    1. _Creating a account_
+3. Setting up
+
+![alt text](loading-dark.gif)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```
 Syntax highlighted code block
 
 # Header 1
