@@ -1,17 +1,21 @@
 # NL-TFM 
 version 2.0.0
-### Functional Documentation
+## User Guide
 
-### Content
+#### Content
 
 1. Introduction
 2. Setting up
-    1. _Creating a account_
+    1. _Creating an account_
 3. Setting up
 
-![alt text](loading-dark.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Introduction
+   This document is intended to describe the functionality of the factory management system.   
+#### Setting up
+
+##### Creating an account
+![image](create-user.gif)
 
 ```
 Syntax highlighted code block
@@ -32,11 +36,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanimak/tfm-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
